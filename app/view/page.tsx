@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 export default async function DynamicPosPage({ params }: { params: { view: string } }) {
   // 1. Menangkap kata dari URL secara otomatis (isinya akan jadi "reg", "hw", dll)
   const { view } = params; 
