@@ -40,7 +40,7 @@ export default function Home() {
         {/* HEADER */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-4 tracking-tight">
-            Command Center <span className="text-indigo-600">SE2026</span>
+            Tes Wawancara <span className="text-indigo-600">SE2026</span>
           </h1>
           <p className="text-slate-500 text-sm md:text-base font-medium">
             Sistem Integrasi Antrean Terpadu Sensus Ekonomi
