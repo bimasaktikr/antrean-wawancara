@@ -35,7 +35,7 @@ export default function Home() {
       title: "Monitoring Hasil", // 🔥 MENU BARU
       description: "Analisis data final, skoring, & hasil seleksi.",
       icon: <BarChart3 className="w-12 h-12 mb-5 text-rose-500" />, // Ikon Rose/Pink agar beda warna
-      href: "/monitoring",
+      href: "/final",
       colorClass: "hover:border-rose-500 hover:shadow-rose-100"
     }
   ];
