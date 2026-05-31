@@ -38,7 +38,7 @@ export default function Home() {
       href: "/final",
       colorClass: "hover:border-rose-500 hover:shadow-rose-100"
     }
-  ];
+  ];  
 
   return (
     <main className="min-h-screen bg-slate-50 flex items-center justify-center p-6 font-sans">
